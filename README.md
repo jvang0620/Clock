@@ -42,7 +42,7 @@ To run the Clock App on your local machine, please follow the steps below:
 2. Add extension "Live Server" if you havn't:
 
 <div style="text-align: center;">
-    <img src="/Image-LiveExtension/Live-Server-Pic.PNG" alt="Screenshot of Live Server Extension" width="600">
+    <img src="/Img/Live-Server-Pic.PNG" alt="Screenshot of Live Server Extension" width="600">
 </div>
 
 <br>
