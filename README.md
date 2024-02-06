@@ -1,6 +1,6 @@
 # Clock App
 
-![JavaScript-Clock](./Img/clock.PNG)
+![JavaScript-Clock](./imgs/clock.PNG)
 
 This clock app provides a simple yet elegant way to visualize the current time. With its sleek design and smooth animations, it brings the timeless charm of traditional clocks to the digital world.
 
@@ -42,7 +42,7 @@ To run the Clock App on your local machine, please follow the steps below:
 2. Add extension "Live Server" if you havn't:
 
 <div style="text-align: center;">
-    <img src="/Img/Live-Server-Pic.PNG" alt="Screenshot of Live Server Extension" width="600">
+    <img src="/imgs/Live-Server-Pic.PNG" alt="Screenshot of Live Server Extension" width="600">
 </div>
 
 <br>
